@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+.menu{
+    padding: 90px 0 0 60px;
+    color: #419b63;
+}
+
+.menu-card{
+    width:33%;
+    margin-top:35px;
+    display: flex;
+}
+
+.menu-card-inner{
+    padding: 25px 30px;
+    background-color: #e6eae8;
+    border-radius:7px;
+    box-shadow:1px 1px 4px #419b63;
+    text-align:center;
+    margin: 0 20px;
+    flex:1;
+}
+
+.menu-image{
+    width:100%;
+    margin-bottom:20px;
+    border-radius:5px;
+}
+
+.menu-title{
+    margin-bottom:8px;
+}
+
+.menu-text{
+    font-size:14px;
+}
+
+.menu-card-wrapper{
+    display: flex;
+    flex-wrap:wrap;
+    align-items:stretch;
+}
